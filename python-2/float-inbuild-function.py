@@ -14,3 +14,7 @@ print("multiply:",result3)
 
 result4= num1/num2
 print("divide:",result4)
+
+#rounding
+a=round(3.14159,2)
+print("Rounded:",a)
